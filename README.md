@@ -1,7 +1,10 @@
 # Pong with GDScript
 
-A simple Pong game. This demo shows best practices
-for game development in Godot, including
+Provided by the Godot team under the MIT license. The point of this exercise is to explore the features of Godot by modifying this simple game.
+
+Godot Team's original README.md file:
+
+"A simple Pong game. This demo shows best practices for game development in Godot, including
 [signals](https://docs.godotengine.org/en/latest/getting_started/step_by_step/signals.html).
 
 Language: GDScript
@@ -25,4 +28,4 @@ they emit signals and modify the ball.
 
 ## Screenshots
 
-![Screenshot](screenshots/pong.png)
+![Screenshot](screenshots/pong.png)"
